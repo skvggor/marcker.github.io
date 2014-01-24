@@ -23,10 +23,10 @@ Website.apps = {
           'url': 'https://plus.google.com/102852478914643331562'
         }, {
           'text': 'Valid HTML',
-          'url': 'http://validator.w3.org/check?uri=http://marcker.net'
+          'url': 'http://validator.w3.org/check?uri=http://marcker.github.io'
         }, {
           'text': 'Valid CSS',
-          'url': 'http://jigsaw.w3.org/css-validator/validator?uri=http://marcker.net'
+          'url': 'http://jigsaw.w3.org/css-validator/validator?uri=http://marcker.github.io'
         }
       ]
     };

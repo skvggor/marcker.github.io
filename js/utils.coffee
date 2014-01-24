@@ -8,8 +8,8 @@ Website.apps =
         {'text': 'GitHub', 'url': 'http://github.com/marcker'}
         {'text': 'Facebook', 'url': 'http://facebook.com/imarcker'}
         {'text': 'Google Plus', 'url': 'https://plus.google.com/102852478914643331562'}
-        {'text': 'Valid HTML', 'url': 'http://validator.w3.org/check?uri=http://marcker.net'}
-        {'text': 'Valid CSS', 'url': 'http://jigsaw.w3.org/css-validator/validator?uri=http://marcker.net'}
+        {'text': 'Valid HTML', 'url': 'http://validator.w3.org/check?uri=http://marcker.github.io'}
+        {'text': 'Valid CSS', 'url': 'http://jigsaw.w3.org/css-validator/validator?uri=http://marcker.github.io'}
       ]
 
     return JSONObj
