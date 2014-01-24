@@ -1,0 +1,174 @@
+body {
+  margin:0;
+  background:#ffffff url('../images/bg.png');
+}
+
+  #wrapper {
+    background:#f2f2f3;
+    box-shadow:0px -5px 30px #cbc9cf;
+    border-top:1px solid #1e1e1f;
+    border-right:1px solid #cbc9cf;
+    border-bottom:1px solid #1e1e1f;
+    border-left:1px solid #cbc9cf;
+    margin:0 auto;
+    width:960px;
+    min-width:960px;
+  }
+
+    #header {
+      padding:10px 0 0 0;
+      height:50px;
+    }
+
+      #logo {
+        float:left;
+        height:50px;
+        width:960px;
+      }
+
+        #logo a {
+          color:rgb(0,0,0);
+          text-decoration:none;
+        }
+
+          #logo h1 {
+            font:bold 40px 'Lato',Arial,sans-serif;
+            margin:0 0 0 10px;
+          }
+
+            #logo span {
+              vertical-align:top;
+              font-size:12px;
+            }
+
+      .mozilla{
+        width:960px;
+        float:left;
+        padding:0 0 0 10px;
+      }
+
+      #nav {
+        border-right:2px solid #000;
+        text-align:right;
+        width:960px;
+        line-height:15px;
+        float:left;
+      }
+
+        ul{
+          display:inline;
+          list-style-type:none;
+        }
+
+          #nav a {
+            text-transform:uppercase;
+            outline:0;
+            border:0;
+            margin:0 10px 0 10px;
+            text-decoration:none;
+            color:rgb(203, 201, 207);
+            font:14px 'Lato',Arial,sans-serif;
+            -webkit-transition:color 0.2s linear;
+            -moz-transition:color 0.2s linear;
+            -o-transition:color 0.2s linear;
+            transition:color 0.2s linear;
+          }
+
+            #nav a:hover {
+              color:black;
+            }
+
+    #content,
+    #footer {
+      padding:10px;
+    }
+
+      #language {
+        font-size:12px;
+        text-align:center;
+      }
+
+        #language a {
+          font:bold 14px 'Lato',Arial,sans-serif;
+          outline:0;
+          border:0;
+          text-decoration:none;
+          color:rgb(103, 102, 106);
+          -webkit-transition:color 0.2s linear;
+          -moz-transition:color 0.2s linear;
+          -o-transition:color 0.2s linear;
+          transition:color 0.2s linear;
+        }
+
+        #language a:hover {
+          text-decoration:underline;
+          color:black;
+        }
+
+        #welcome {
+          p {
+            font:40px 'Boogaloo',cursive;
+            color:rgb(200,200,200);
+            -webkit-text-shadow:1px 2px 0 rgb(50,50,50);
+            -moz-text-shadow:1px 2px 0 rgb(50,50,50);
+            -o-text-shadow:1px 2px 0 rgb(50,50,50);
+            text-shadow:1px 2px 0 rgb(50,50,50);
+            margin:0 0 20px 0;
+            
+            strong {
+              -webkit-text-shadow:none;
+              -moz-text-shadow:none;
+              -o-text-shadow:none;
+              text-shadow:none;
+              cursor:pointer;
+            }
+          }
+        } // #Welcome
+
+            #github-updates{
+              .header-github-updates{
+                h2{
+                  font:bold 20px 'Lato',Arial,sans-serif;
+                  margin:0;
+
+                  a{
+                    cursor:pointer;
+                    color:rgb(0,0,0);
+                    text-decoration:none;
+                  }
+
+                  a:hover{
+                    color:rgb(255,0,0);
+                  }
+                }
+              }
+
+              ul {
+                font:14px 'Lato',Arial,sans-serif;
+                list-style-type:none;
+
+                li{
+                  line-height:30px;
+
+                  a{
+                    text-shadow:1px 1px 1px rgb(0,0,0);
+                    border-radius:15px;
+                    padding:5px;
+                    background:rgb(84,105,182);
+                    text-decoration:none;
+                    color:rgb(255,255,255);
+                    font-weight:900;
+                  }
+
+                  .repo{
+                    background:rgb(150,200,200) !important;
+                  }
+                }
+              }
+            } // #Github updates
+
+        #footer {
+          height:50px;
+          font-size:12px;
+          text-align:center;
+        }
