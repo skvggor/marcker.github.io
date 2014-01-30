@@ -3,11 +3,25 @@ layout: default
 title: Ultracode Blog por Marcker (developer)
 ---
 
-<div id="home">
-  <h1>Postagens</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+<div class="conteudo">
+  <div class="lista-posts">
+    <div class="lista">
+      <ul>
+        {% for post in site.posts %}
+          <li>
+
+            <a title="{{ post.title }}" href="{{ post.url }}">
+              <div class="data">
+                <p>{{ post.date | date_to_string }}</p>
+              </div>
+              <div class="titulo">
+                <p>{{ post.title }}</p>
+              </div>
+            </a>
+
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
 </div>

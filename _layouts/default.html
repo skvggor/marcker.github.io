@@ -5,36 +5,37 @@
     <meta name="keywords" content="development, developer, javascript, coffeescript, maua, arte, php, python, marcker, marcos garcia, programming, programmer, marckfree, imarcker">
     <meta name="description" content="Ultracode Blog por Marcker (developer)">
     <meta name="author" content="Marcker <marckfree@gmail.com>">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/css/main.css">
+    <title>{{ site.name }} | {{ page.title }}</title>
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Offside">
+    <link rel="stylesheet" href="/css/styles.css">
   </head>
   <body>
 
-    <div class="site">
-      <div class="header">
-        <h1 class="title">
-          <a href="/">{{ site.name }}</a>
-        </h1>
-        <a class="extra" href="/">home</a>
+    <div class="layout">
+      <div class="topo">
+        <div class="logotipo">
+          <a title="{{ site.name }}" href="/">
+            {{ site.name }}
+          </a>
+        </div>
       </div>
 
       {{ content }}
 
-      <div class="footer">
-        <div class="contact">
-          <p>
-            Marcos Garcia<br />
-            Developer<br />
-            marckfree@gmail.com
-          </p>
+      <div class="rodape">
+        <div class="copyright">
+          <p>{{ site.name }} &#8212; MIT License &#8212; 2014</p>
+          <p>Por Marcker com <a href="http://jekyllrb.com">Jekyll</a></p>
         </div>
-        <div class="contact">
+        <div class="contatos">
           <p>
-            <a href="https://github.com/marcker">github.com/marcker</a><br />
-            <a href="https://twitter.com/marcker">twitter.com/marcker</a><br />
+            <a href="http://twitter.com/marcker">Twitter</a> 
+            <a href="http://github.com/marcker">Github</a> 
+            <a href="mailto: marckfree@gmail.com">Gmail</a>
           </p>
         </div>
       </div>
+
     </div>
 
     <script>
@@ -51,6 +52,5 @@
         s.parentNode.insertBefore(ga, s);
       })();
     </script>
-
   </body>
 </html>
