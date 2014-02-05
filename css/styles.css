@@ -146,6 +146,11 @@ body{ background:rgb(238,238,238); }
       color:rgb(38,38,38);
     }
 
+      .layout .post .texto ol,
+      .layout .post .texto ul{ margin:0 0 40px 0; }
+      .layout .post .texto ol li{ list-style-type:decimal; }
+      .layout .post .texto ul li{ list-style-type:disc; }
+
       .layout .post .texto p{ margin:0 0 25px; }
 
         .layout .post .texto p b,
