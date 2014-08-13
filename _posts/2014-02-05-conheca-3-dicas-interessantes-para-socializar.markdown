@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Conheça 3 dicas interessantes para sair 'raqueando'"
+title:  "Conheça 3 dicas interessantes para socializar"
 date:   2014-02-05 14:29:56
 categories: posts dicas
 ---
