@@ -16,7 +16,7 @@ Mas então? Como criar estas imagens? A princípio você pode utilizar um editor
 Assim, você poderá optar pela ferramenta [ImageMagick][imagemagick] para criar os seus sprites via linha de comando (eu uso [Konsole][konsole] com [Zsh][zsh] e [Prezto][prezto]):
 
 
-```
+```bash
 
 mkdir sprites && montage * \
   -monitor \

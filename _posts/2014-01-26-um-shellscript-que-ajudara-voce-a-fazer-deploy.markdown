@@ -14,12 +14,15 @@ Então, a quatro meses criei um script shell que uso diariamente para fazer meus
 config
 
 ```
+
 file_or_directory, ssh_data, destination
+
 ```
 
 deployit.sh
 
-```
+```bash
+
 #!/bin/bash
 
 file_or_directory=`awk -F", " '{print $1}' config`;
@@ -39,6 +42,7 @@ initializer() {
 }
 
 initializer;
+
 ```
 
 Como podem observar acima, o procedimento adotado é bem simples: o arquivo `deployit.sh` lê o arquivo `config` que possui as configurações básicas do SSH e a localização do (s) arquivo (s) de origem e destino. Por exemplo, eu quero enviar todos os arquivos do diretório que o `deployit.sh` está para a pasta `public_html` de um servidor qualquer. O arquivo `config` ficará dessa forma:
@@ -46,15 +50,19 @@ Como podem observar acima, o procedimento adotado é bem simples: o arquivo `dep
 config
 
 ```
+
 *, usuariofoo@ftp.example.com, ~/public_html/
+
 ```
 
 Logo, você executará via terminal o comando `./deployit` para enviar os arquivos alterados apenas (automagicamente :-) ).
 
 Caso a porta do SSH não seja a padrão você pode substituir a linha `8` por está aqui:
 
-```
+```bash
+
 rsync -avz -e 'ssh -p porta_aqui' $file_or_directory $ssh_data:$destination
+
 ```
 
 Bom galera é isso. Caso tenha alguma dúvida podem me contactar via e-mail. Caso queira contribuir faça um fork do projeto no GitHub.
