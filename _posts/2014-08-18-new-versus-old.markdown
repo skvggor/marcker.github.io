@@ -24,7 +24,7 @@ Thus, from March to July worked hard to build a new product that could meet the 
    * `Grunt-shell` runs after everything to run` rsync` to send files as specified in the `config`, with` script deployit.sh`
 * Docco for documentation of CoffeeScript
 
-Then launched July 24 the new [Portal Maua and Region](http://portalmauaeregiao.com.br) and achieved an excellent result compared to the same period last year:
+Then launched July 24 the new [Portal Mauá e Região](http://portalmauaeregiao.com.br) and achieved an excellent result compared to the same period last year:
 
 * July 24 to August 17, 2013: **4236** (page views)
 * July 24 to August 17, 2014: **9895**
