@@ -4,7 +4,11 @@
  <title>code</title>
  <link href="http://marcker.github.io/atom.xml" rel="self"/>
  <link href="http://marcker.github.io/"/>
+<<<<<<< HEAD
  <updated>2014-08-18T09:55:12-03:00</updated>
+=======
+ <updated>2014-08-13T15:10:55-03:00</updated>
+>>>>>>> 9f69a33aba93153d9e6e216b9b613fde37fe7368
  <id>http://marcker.github.io</id>
  <author>
    <name>Marcos Garcia</name>
@@ -13,6 +17,7 @@
 
  
  <entry>
+<<<<<<< HEAD
    <title>New versus old</title>
    <link href="http://marcker.github.io/projects/2014/08/18/new-versus-old/"/>
    <updated>2014-08-18T05:43:28-03:00</updated>
@@ -51,6 +56,8 @@
  </entry>
  
  <entry>
+=======
+>>>>>>> 9f69a33aba93153d9e6e216b9b613fde37fe7368
    <title>Conheça 3 dicas interessantes para socializar</title>
    <link href="http://marcker.github.io/posts/dicas/2014/02/05/conheca-3-dicas-interessantes-para-socializar/"/>
    <updated>2014-02-05T12:29:56-02:00</updated>
