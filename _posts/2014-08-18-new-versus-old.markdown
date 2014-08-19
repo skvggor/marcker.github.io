@@ -16,12 +16,12 @@ Thus, from March to July worked hard to build a new product that could meet the 
 * Sass (CSS 3)
 * CoffeeScript (JavaScript)
 * Grunt tasks:
-   * Compile CoffeeScript
-   * Compile Sass
-   * Coffelint
-   * JShint
-   * YUI Compressor: minify JavaScript and CSS
-   * `Grunt-shell` runs after everything to run` rsync` to send files as specified in the `config`, with` script deployit.sh`
+  * Compile CoffeeScript
+  * Compile Sass
+  * Coffelint
+  * JShint
+  * YUI Compressor: minify JavaScript and CSS
+  * `Grunt-shell` runs after everything to run` rsync` to send files as specified in the `config`, with` script deployit.sh`
 * Docco for documentation of CoffeeScript
 
 Then launched July 24 the new [Portal Mauá e Região](http://portalmauaeregiao.com.br) and achieved an excellent result compared to the same period last year:

@@ -4,7 +4,7 @@
  <title>code</title>
  <link href="http://marcker.github.io/atom.xml" rel="self"/>
  <link href="http://marcker.github.io/"/>
- <updated>2014-08-18T10:22:49-03:00</updated>
+ <updated>2014-08-19T08:56:14-03:00</updated>
  <id>http://marcker.github.io</id>
  <author>
    <name>Marcos Garcia</name>
@@ -29,12 +29,15 @@
 &lt;li&gt;Sass (CSS 3)&lt;/li&gt;
 &lt;li&gt;CoffeeScript (JavaScript)&lt;/li&gt;
 &lt;li&gt;Grunt tasks:
-   * Compile CoffeeScript
-   * Compile Sass
-   * Coffelint
-   * JShint
-   * YUI Compressor: minify JavaScript and CSS
-   * &lt;code&gt;Grunt-shell&lt;/code&gt; runs after everything to run&lt;code&gt;rsync&lt;/code&gt; to send files as specified in the &lt;code&gt;config&lt;/code&gt;, with&lt;code&gt;script deployit.sh&lt;/code&gt;&lt;/li&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Compile CoffeeScript&lt;/li&gt;
+&lt;li&gt;Compile Sass&lt;/li&gt;
+&lt;li&gt;Coffelint&lt;/li&gt;
+&lt;li&gt;JShint&lt;/li&gt;
+&lt;li&gt;YUI Compressor: minify JavaScript and CSS&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Grunt-shell&lt;/code&gt; runs after everything to run&lt;code&gt;rsync&lt;/code&gt; to send files as specified in the &lt;code&gt;config&lt;/code&gt;, with&lt;code&gt;script deployit.sh&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Docco for documentation of CoffeeScript&lt;/li&gt;
 &lt;/ul&gt;
 
