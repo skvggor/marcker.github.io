@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+![Marcker's avatar]({{ site.url }}/assets/avatar_marcker.jpg)
+
 <p class="message">
   <strong>Warning</strong>: I'm currently available for freelance. Ask for a quotation.
 </p>
