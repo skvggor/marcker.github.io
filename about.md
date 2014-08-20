@@ -17,6 +17,16 @@ Currently working with web applications and mainly use these resources: `JavaScr
 
 Note: also has expertise in graphics software.
 
+## Press
+
+* 2º hackathon FIESP-CJE &#8212; [http://www.fiesp.com.br/noticias/hackathon-reune-200-participantes-na-fiesp-com-a-missao-de-desenvolver-aplicativos/](http://www.fiesp.com.br/noticias/hackathon-reune-200-participantes-na-fiesp-com-a-missao-de-desenvolver-aplicativos/)
+
+* IBM mobile hackathon &#8212; [http://www.globalcode.com.br/eventos/ibm/hackathon-mobile](http://www.globalcode.com.br/eventos/ibm/hackathon-mobile)
+
+* Hackathon USP cidades: desafios urbanos em firefox OS &#8212; [http://www.uspcidades.net/ler/post/hackathonfinal](http://www.uspcidades.net/ler/post/hackathonfinal)
+
+* Firefox OS game hackathon &#8212; [http://tecnoblog.net/131017/hackathon-games-firefox-os-sao-paulo/](http://tecnoblog.net/131017/hackathon-games-firefox-os-sao-paulo/)
+
 ## Keep contact
 
 If wanted to get in touch and find out more information:
