@@ -4,7 +4,7 @@
  <title>code</title>
  <link href="http://marcker.github.io/atom.xml" rel="self"/>
  <link href="http://marcker.github.io/"/>
- <updated>2014-08-19T09:16:22-03:00</updated>
+ <updated>2014-08-19T21:54:54-03:00</updated>
  <id>http://marcker.github.io</id>
  <author>
    <name>Marcos Garcia</name>
@@ -36,7 +36,7 @@
 &lt;li&gt;Coffelint&lt;/li&gt;
 &lt;li&gt;JShint&lt;/li&gt;
 &lt;li&gt;YUI Compressor: minify JavaScript and CSS&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Grunt-shell&lt;/code&gt; runs after everything to run&lt;code&gt;rsync&lt;/code&gt; to send files as specified in the &lt;code&gt;config&lt;/code&gt;, with&lt;code&gt;script deployit.sh&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;grunt-shell&lt;/code&gt; runs after everything to run &lt;code&gt;rsync&lt;/code&gt; to send files as specified in the &lt;code&gt;config&lt;/code&gt;, with script &lt;code&gt;deployit.sh&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Docco for documentation of CoffeeScript&lt;/li&gt;
 &lt;/ul&gt;
