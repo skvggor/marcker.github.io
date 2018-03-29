@@ -2,7 +2,7 @@
   "name": "ejs-playground",
   "version": "0.0.1",
   "description": "ejs-playground",
-  "main": "index.js",
+  "main": "server.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marcker/ejs-playground.git"
