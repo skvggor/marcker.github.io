@@ -1,21 +1,21 @@
 {
-  "name": "ejs-playground",
-  "version": "0.0.1",
-  "description": "ejs-playground",
+  "name": "marcker.github.io",
+  "version": "2.0.0",
+  "description": "marcker.github.io",
   "main": "server.js",
   "scripts": {
     "start": "./node_modules/nodemon/bin/nodemon.js index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcker/ejs-playground.git"
+    "url": "git+https://github.com/marcker/marcker.github.io.git"
   },
   "author": "marcker <marckfree@gmail.com> (http://marcker.github.io)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marcker/ejs-playground/issues"
+    "url": "https://github.com/marcker/marcker.github.io/issues"
   },
-  "homepage": "https://github.com/marcker/ejs-playground#readme",
+  "homepage": "https://github.com/marcker/marcker.github.io#readme",
   "dependencies": {
     "ejs": "^2.5.8",
     "express": "^4.16.3",

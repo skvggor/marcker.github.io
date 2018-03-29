@@ -1,11 +1,10 @@
-# ejs-playground
+# [marcker.herokuapp.com](https://marcker.herokuapp.com)
 
 ---
 
 ```bash
-npm i && node server.js
+npm i && node start
 
-// localhost:1313
 ```
 
 ## License
