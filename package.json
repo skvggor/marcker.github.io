@@ -1,0 +1,20 @@
+{
+  "name": "ejs-playground",
+  "version": "0.0.1",
+  "description": "ejs-playground",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcker/ejs-playground.git"
+  },
+  "author": "marcker <marckfree@gmail.com> (http://marcker.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcker/ejs-playground/issues"
+  },
+  "homepage": "https://github.com/marcker/ejs-playground#readme",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3"
+  }
+}
