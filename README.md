@@ -2,10 +2,13 @@
 
 ---
 
+## Build
+
 ```bash
-npm i && node start
+npm i && npm start
 
 ```
+Go to http://localhost:8080.
 
 ## License
 
